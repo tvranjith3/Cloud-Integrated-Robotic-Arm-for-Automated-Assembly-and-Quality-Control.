@@ -1,0 +1,2 @@
+# Cloud-Integrated-Robotic-Arm-for-Automated-Assembly-and-Quality-Control.
+“Cloud-Integrated Robotic Arm for Automated Assembly and Quality Control” is a vision-based automation system that detects rusted objects using an OV7670 camera and OpenCV image processing. The system uses dual ESP32 controllers and a PCA9685-driven 6-DOF robotic arm to automatically pick and segregate defective components.
